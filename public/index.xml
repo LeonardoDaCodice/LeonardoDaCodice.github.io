@@ -6,14 +6,6 @@
     <description>Recent content on Il Blog di LeonardoDaCodice</description>
     <generator>Hugo -- 0.125.7</generator>
     <language>it-it</language>
-    <lastBuildDate>Sun, 02 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://LeonardoDaCodice.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Snake Game</title>
-      <link>https://LeonardoDaCodice.github.io/games/snake/</link>
-      <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://LeonardoDaCodice.github.io/games/snake/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

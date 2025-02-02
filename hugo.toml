@@ -25,9 +25,3 @@ theme = 'PaperMod'  # Assicurati che il tema sia corretto
   name = "GitHub"
   url = "https://github.com/LeonardoDaCodice"
   weight = 3
-
-[[menu.main]]
-  identifier = "games"
-  name = "Giochi"
-  url = "/games/"
-  weight = 4
