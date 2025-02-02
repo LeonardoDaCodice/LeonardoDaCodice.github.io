@@ -29,5 +29,5 @@ theme = 'PaperMod'  # Assicurati che il tema sia corretto
 [[menu.main]]
   identifier = "games"
   name = "Giochi"
-  url = "/games/"
+  url = "/games/snake/"
   weight = 4
