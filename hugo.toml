@@ -1,0 +1,27 @@
+baseURL = 'https://LeonardoDaCodice.github.io/'  # Metti il tuo URL GitHub Pages
+languageCode = 'it-it'  # Se vuoi in italiano, altrimenti lascia 'en-us'
+title = 'Il Blog di LeonardoDaCodice'
+theme = 'PaperMod'  # Assicurati che il tema sia corretto
+
+[params]
+  author = "Leonardo Da Codice"
+  description = "Benvenuto nel mio blog! Qui trovi informazioni su di me e sui miei progetti."
+  ShowReadingTime = true
+
+[[menu.main]]
+  identifier = "about"
+  name = "Chi Sono"
+  url = "/about/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Progetti"
+  url = "/projects/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/LeonardoDaCodice"
+  weight = 3
